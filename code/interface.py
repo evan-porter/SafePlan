@@ -1103,7 +1103,7 @@ class CombinedExport(QtWidgets.QMainWindow):
         self.target_cboxes = {}
         self.drr_cboxes = {}
         self.poi_cboxes = {}
-        self.instructions = 'Select any IGRT ROIs to be sent to Aria in the table.\nAll Targets will automatically send to Aria.\nAll ROIs will be sent to MIM Final and Mobius.'
+        self.instructions = 'Select any IGRT ROIs to be sent to Aria in the table.\nAll Targets will automatically send to Aria.\nAll ROIs will be sent to MIM and Mobius.'
         self.operations = ['ARIA', 'MIM', 'Mobius', 'AlignRT', 'Generate QA Plan']
         self.viewed_options = {'Export Targets': False,
                                'Export POIs': False,
@@ -1287,7 +1287,7 @@ class CombinedExport(QtWidgets.QMainWindow):
 
         self.aria_export = QtWidgets.QCheckBox('Export to Aria')
         self.aria_export.setChecked(True)
-        self.mim_export = QtWidgets.QCheckBox('Export to MIM Final')
+        self.mim_export = QtWidgets.QCheckBox('Export to MIM')
         self.mim_export.setChecked(True)
         self.mobius_export = QtWidgets.QCheckBox('Export to Mobius')
         self.mobius_export.setChecked(True)
