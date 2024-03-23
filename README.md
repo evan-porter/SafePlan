@@ -4,7 +4,7 @@ Evan Porter<sup>1</sup>, Nicolas Prionas<sup>1</sup>, Emily Hirata<sup>1</sup>, 
 *1. University of California San Francisco*
 
 # Disclaimer
-We offer not support for clinical use of this software and do not guarantee that this software will detect planning deviations in your clinic. Any users are solely responsible to commission and QA this software prior to clinical use.
+We offer no support for clinical use of this software and do not guarantee that this software will detect planning deviations in your clinic. Any users are solely responsible to commission and QA this software prior to clinical use.
 
 # Steps to getting started
 1. Dose constraints (`./constraints/*`) and ROI naming templates (`./templates/*`) should be updated to reflect clinical practice
