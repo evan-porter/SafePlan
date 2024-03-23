@@ -1,0 +1,224 @@
+﻿RoiName,Volume,VolumeUnits,NumberOfFx,DoseThreshold,Source
+AirWay,0.5,cc,1,1240,TG101
+AirWay,0.03,cc,1,1330,TG101
+AirWay,0.5,cc,3,1890,TG101
+AirWay,0.03,cc,3,2310,TG101
+AirWay,0.5,cc,5,2100,TG101
+AirWay,0.03,cc,5,3300,TG101
+Bladder,15,percent,conv,8000,RTOG 0126
+Bladder,25,percent,conv,7500,RTOG 0126
+Bladder,35,percent,conv,7000,RTOG 0126
+Bladder,50,percent,conv,6500,RTOG 0126
+Bladder wall,0.03,cc,3,2820,TG-101
+Bladder wall,15,cc,3,1680,TG-101
+Bladder wall,0.03,cc,1,1840,TG-101
+Bladder wall,15,cc,1,1140,TG-101
+Bladder wall,0.03,cc,5,3800,TG-101
+Bladder wall,15,cc,5,1830,TG-101
+BrachialPlex_*,0.03,cc,conv,6600,RTOG 0619
+BrachialPlex_*,5,percent,conv,6000,RTOG 0619
+BrachialPlex_*,0.03,cc,3,2400,TG-101
+BrachialPlex_*,3,cc,3,2040,TG-101
+BrachialPlex_*,0.03,cc,1,1750,TG-101
+BrachialPlex_*,3,cc,1,1400,TG-101
+BrachialPlex_*,0.03,cc,5,3050,TG-101
+BrachialPlex_*,3,cc,5,2700,TG-101
+Brain,10,cc,1,1000,Chin et al. J Neurosurg 98 899-904 (2001)
+Brainstem,0.03,cc,conv,5400,RTOG 0225
+Brainstem,1,percent,conv,6000,RTOG 0225
+Brainstem,0.03,cc,3,2310,TG-101
+Brainstem,0.5,cc,3,1800,TG-101
+Brainstem,0.03,cc,1,1500,TG-101
+Brainstem,0.5,cc,1,1000,TG-101
+Brainstem,0.03,cc,5,3100,TG-101
+Brainstem,0.5,cc,5,2300,TG-101
+Bronchus,0.03,cc,3,2310,TG-101
+Bronchus,0.5,cc,3,1890,TG-101
+Bronchus,0.03,cc,1,1330,TG-101
+Bronchus,0.5,cc,1,1240,TG-101
+Bronchus,0.03,cc,5,3300,TG-101
+Bronchus,0.5,cc,5,2100,TG-101
+CaudaEquina,0.03,cc,3,2400,TG-101
+CaudaEquina,5,cc,3,2190,TG-101
+CaudaEquina,0.03,cc,1,1600,TG-101
+CaudaEquina,5,cc,1,1400,TG-101
+CaudaEquina,0.03,cc,5,3200,TG-101
+CaudaEquina,5,cc,5,3000,TG-101
+Cochlea_*,5,percent,conv,5500,RTOG 0615
+Cochlea_*,0.03,cc,3,1710,TG-101
+Cochlea_*,0.03,cc,1,900,TG-101
+Cochlea_*,0.03,cc,5,2500,TG-101
+Colon_Sigmoid,0.03,cc,3,2820,TG-101
+Colon_Sigmoid,20,cc,3,2400,TG-101
+Colon_Sigmoid,0.03,cc,1,1840,TG-101
+Colon_Sigmoid,20,cc,1,1430,TG-101
+Colon_Sigmoid,0.03,cc,5,3800,TG-101
+Colon_Sigmoid,20,cc,5,2500,TG-101
+Duodenum,0.03,cc,conv,6000,Spalding et al. Med Phys 34 521-529 (2007)
+Duodenum,33,percent,conv,4500,Spalding et al. Med Phys 34 521-529 (2007)
+Duodenum,0.03,cc,3,2220,TG-101
+Duodenum,10,cc,3,1140,TG-101
+Duodenum,5,cc,3,1650,TG-101
+Duodenum,0.03,cc,1,1240,TG-101
+Duodenum,10,cc,1,900,TG-101
+Duodenum,5,cc,1,1120,TG-101
+Duodenum,0.03,cc,5,3200,TG-101
+Duodenum,10,cc,5,1250,TG-101
+Duodenum,5,cc,5,1800,TG-101
+Ears ,mean,,conv,5000,RTOG 0225
+Esophagus,mean,,conv,3500,RTOG 0920
+Esophagus,15,percent,conv,5400,RTOG 0920
+Esophagus,33,percent,conv,4500,RTOG 0920
+Esophagus,0.03,cc,3,2520,TG-101
+Esophagus,5,cc,3,1770,TG-101
+Esophagus,0.03,cc,1,1540,TG-101
+Esophagus,5,cc,1,1190,TG-101
+Esophagus,0.03,cc,5,3500,TG-101
+Esophagus,5,cc,5,1950,TG-101
+Eyes,0.03,cc,conv,5000,RTOG 0615
+Eyes,mean,,conv,3500,RTOG 0225
+Femur_Head_*,0.03,cc,conv,5000,RTOG 0822
+Femur_Head_*,25,percent,conv,4500,RTOG 0822
+Femur_Head_*,40,percent,conv,4000,RTOG 0822
+Femur_Head_*,10,cc,3,2190,TG-101
+Femur_Head_*,10,cc,1,1400,TG-101
+Femur_Head_*,10,cc,5,3000,TG-101
+Epiglottis,mean,,conv,4500,RTOG 0225
+GreatVes,0.03,cc,3,4500,TG-101
+GreatVes,10,cc,3,3900,TG-101
+GreatVes,0.03,cc,1,3700,TG-101
+GreatVes,10,cc,1,3100,TG-101
+GreatVes,0.03,cc,5,5300,TG-101
+GreatVes,10,cc,5,4700,TG-101
+Heart,33,percent,conv,6000,RTOG 0623
+Heart,67,percent,conv,4500,RTOG 0623
+Heart,100,percent,conv,4000,RTOG 0623
+Heart,0.03,cc,3,3000,TG-101
+Heart,15,cc,3,2400,TG-101
+Heart,0.03,cc,1,2200,TG-101
+Heart,15,cc,1,1600,TG-101
+Heart,0.03,cc,5,3800,TG-101
+Heart,15,cc,5,3200,TG-101
+Ileum,0.03,cc,3,2520,TG-101
+Ileum,5,cc,3,1770,TG-101
+Ileum,0.03,cc,1,1540,TG-101
+Ileum,5,cc,1,1190,TG-101
+Ileum,0.03,cc,5,3500,TG-101
+Ileum,5,cc,5,1950,TG-101
+Jejunum,0.03,cc,3,2520,TG-101
+Jejunum,5,cc,3,1770,TG-101
+Jejunum,0.03,cc,1,1540,TG-101
+Jejunum,5,cc,1,1190,TG-101
+Jejunum,0.03,cc,5,3500,TG-101
+Jejunum,5,cc,5,1950,TG-101
+Kidney_*,33,percent,conv,5000,RTOG 0436
+Kidney_*,67,percent,conv,3000,RTOG 0436
+Kidney_*,100,percent,conv,2300,RTOG 0436
+Lens_*,0.03,cc,conv,2500,RTOG 0615
+Liver,50,percent,conv,3500,RTOG 0436
+Liver,100,percent,conv,3000,RTOG 0436
+Liver,700,cc,3,1920,TG-101
+Liver,700,cc,1,910,TG-101
+Liver,700,cc,5,2100,TG-101
+Lung_*,mean,,conv,2000,RTOG 0623
+Lung_*,37,percent,conv,2000,RTOG 0623
+Lung_*,1000,cc,3,1240,TG-101
+Lung_*,1500,cc,3,1160,TG-101
+Lung_*,1000,cc,1,740,TG-101
+Lung_*,1500,cc,1,700,TG-101
+Lung_*,1000,cc,5,1350,TG-101
+Lung_*,1500,cc,5,1250,TG-101
+Bone_Mandible,0.03,cc,conv,7000,RTOG 0225
+Bone_Mandible,1,cc,conv,7500,RTOG 0226
+OpticNrv_*,0.03,cc,conv,5400,RTOG 0227
+OpticNrv_*,1,percent,conv,6000,RTOG 0228
+OpticNrv_*,0.03,cc,3,1740,TG-101
+OpticNrv_*,0.2,cc,3,1530,TG-101
+OpticNrv_*,0.03,cc,1,1000,TG-101
+OpticNrv_*,0.2,cc,1,800,TG-101
+OpticNrv_*,0.03,cc,5,2500,TG-101
+OpticNrv_*,0.2,cc,5,2300,TG-101
+Oral cavity,mean,,conv,4000,RTOG 0615
+Parotids,20,cc,conv,2000,RTOG 0912
+Parotid_*,mean,,conv,2600,RTOG 0912
+Parotid_*,50,percent,conv,3000,RTOG 0912
+PenileBulb,mean,,conv,5250,RTOG 0126
+PenileBulb,0.03,cc,3,4200,TG-101
+PenileBulb,3,cc,3,2190,TG-101
+PenileBulb,0.03,cc,1,3400,TG-101
+PenileBulb,3,cc,1,1400,TG-101
+PenileBulb,0.03,cc,5,5000,TG-101
+PenileBulb,3,cc,5,3000,TG-101
+Musc_Constrict,mean,,conv,5400,RTOG 0623
+Musc_Constrict,51,percent,conv,5000,Caglar et al. IJROBP 72 1110-1118 (2008)
+Musc_Constrict,60,percent,conv,5200,Caglar et al. IJROBP 72 1110-1118 (2008)
+Rectum,15,percent,conv,7500,RTOG 0126
+Rectum,25,percent,conv,7000,RTOG 0126
+Rectum,35,percent,conv,6500,RTOG 0126
+Rectum,50,percent,conv,6000,RTOG 0126
+Rectum,0.03,cc,3,2820,TG-101
+Rectum,20,cc,3,2400,TG-101
+Rectum,0.03,cc,1,1840,TG-101
+Rectum,20,cc,1,1430,TG-101
+Rectum,0.03,cc,5,3800,TG-101
+Rectum,20,cc,5,2500,TG-101
+Retina_*,200,cc,3,1600,TG-101
+Retina_*,200,cc,1,840,TG-101
+Retina_*,200,cc,5,1750,TG-101
+Renal hilum/ vascular trunk,66,percent,3,1860,TG-101
+Renal hilum/ vascular trunk,66,percent,1,1060,TG-101
+Renal hilum/ vascular trunk,66,percent,5,2300,TG-101
+Rib_*,0.03,cc,3,3690,TG-101
+Rib_*,1,cc,3,2880,TG-101
+Rib_*,30,cc,3,3000,TG-101
+Rib_*,0.03,cc,1,3000,TG-101
+Rib_*,1,cc,1,2200,TG-101
+Rib_*,0.03,cc,5,4300,TG-101
+Rib_*,1,cc,5,3500,TG-101
+Sacral plexus,0.03,cc,3,2400,TG-101
+Sacral plexus,5,cc,3,2250,TG-101
+Sacral plexus,0.03,cc,1,1600,TG-101
+Sacral plexus,5,cc,1,1440,TG-101
+Sacral plexus,0.03,cc,5,3200,TG-101
+Sacral plexus,5,cc,5,3000,TG-101
+Skin,0.03,cc,3,3300,TG-101
+Skin,10,cc,3,3000,TG-101
+Skin,0.03,cc,1,2600,TG-101
+Skin,10,cc,1,2300,TG-101
+Skin,0.03,cc,5,3950,TG-101
+Skin,10,cc,5,3650,TG-101
+Small intestine,0.03,cc,conv,5000,RTOG 0822
+Small intestine,100,cc,conv,4000,RTOG 0822
+Small intestine,180,cc,conv,3500,RTOG 0822
+Small intestine,65,cc,conv,4500,RTOG 0822
+SpinalCord,0.03,cc,conv,4500,RTOG 0623
+SpinalCord,0.03,cc,3,2190,TG-101
+SpinalCord,0.35,cc,3,1800,TG-101
+SpinalCord,1.2,cc,3,1230,TG-101
+SpinalCord,0.03,cc,1,1400,TG-101
+SpinalCord,0.35,cc,1,1000,TG-101
+SpinalCord,1.2,cc,1,700,TG-101
+SpinalCord,0.03,cc,5,3000,TG-101
+SpinalCord,0.35,cc,5,2300,TG-101
+SpinalCord,1.2,cc,5,1450,TG-101
+Stomach,0.03,cc,conv,5400,Spalding et al. Med Phys 34 521-529 (2007)
+Stomach,2,percent,conv,5000,Spalding et al. Med Phys 34 521-529 (2007)
+Stomach,25,percent,conv,4500,Spalding et al. Med Phys 34 521-529 (2007)
+Stomach,0.03,cc,3,2220,TG-101
+Stomach,10,cc,3,1650,TG-101
+Stomach,0.03,cc,1,1240,TG-101
+Stomach,10,cc,1,1120,TG-101
+Stomach,0.03,cc,5,3200,TG-101
+Stomach,10,cc,5,1800,TG-101
+T-M joint,0.03,cc,conv,7000,RTOG 0225
+T-M joint,1,cc,conv,7500,RTOG 0225
+Temporal lobes,0.03,cc,conv,6000,RTOG 0225
+Temporal lobes,1,percent,conv,6500,RTOG 0225
+Tongue,0.03,cc,conv,5500,RTOG 0225
+Tongue,1,percent,conv,6500,RTOG 0225
+Trachea,0.03,cc,3,3000,TG-101
+Trachea,4,cc,3,1500,TG-101
+Trachea,0.03,cc,1,2020,TG-101
+Trachea,4,cc,1,1050,TG-101
+Trachea,0.03,cc,5,4000,TG-101
+Trachea,4,cc,5,1650,TG-101

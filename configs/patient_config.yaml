@@ -1,0 +1,13 @@
+Rois:
+  ROI Name: TEXT
+  Volume: FLOAT
+  Volume Units: TEXT
+  ROI Type: TEXT
+ClinicalGoals:
+  ROI Name: TEXT
+  Goal Type: TEXT
+  Goal Criteria: TEXT
+  Goal Tolerance: FLOAT
+  Dose Limit: FLOAT
+  Volume: FLOAT
+  Volume Units: TEXT

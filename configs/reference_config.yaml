@@ -1,0 +1,13 @@
+# Could also specify csv and db names here
+DoseConstraints:
+  # Default columns
+  ROI Name: TEXT
+  Volume: TEXT
+  Volume Units: TEXT
+  Number Of Fx: TEXT
+  Reference Limit: TEXT
+  Reference: TEXT
+CompliantNames:
+  ROI Name: TEXT
+IGRTStructures:
+  ROI Name: TEXT

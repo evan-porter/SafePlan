@@ -1,0 +1,169 @@
+RoiName,Volume,VolumeUnits,NumberOfFx,ReferenceLimit,Reference
+AirWay,0.5,cc,1,1240,TG101
+AirWay,0.03,cc,1,1330,TG101
+AirWay,0.5,cc,3,1890,TG101
+AirWay,0.03,cc,3,2310,TG101
+AirWay,0.5,cc,5,2100,TG101
+AirWay,0.03,cc,5,3300,TG101
+Bladder wall,15,cc,1,1140,TG101
+Bladder wall,0.03,cc,1,1840,TG101
+Bladder wall,15,cc,3,1680,TG101
+Bladder wall,0.03,cc,3,2820,TG101
+Bladder wall,15,cc,5,1830,TG101
+Bladder wall,0.03,cc,5,3800,TG101
+BrachialPlex_*,3,cc,1,1400,TG101
+BrachialPlex_*,0.03,cc,1,1750,TG101
+BrachialPlex_*,3,cc,3,2040,TG101
+BrachialPlex_*,0.03,cc,3,2400,TG101
+BrachialPlex_*,3,cc,5,2700,TG101
+BrachialPlex_*,0.03,cc,5,3050,TG101
+Brainstem,0.5,cc,1,1000,TG101
+Brainstem,0.03,cc,1,1500,TG101
+Brainstem,0.5,cc,3,1800,TG101
+Brainstem,0.03,cc,3,2310,TG101
+Brainstem,0.5,cc,5,2300,TG101
+Brainstem,0.03,cc,5,3100,TG101
+Bronchus,0.5,cc,1,1240,TG101
+Bronchus,0.03,cc,1,1330,TG101
+Bronchus,0.5,cc,3,1890,TG101
+Bronchus,0.03,cc,3,2310,TG101
+Bronchus,0.5,cc,5,2100,TG101
+Bronchus,0.03,cc,5,3300,TG101
+Cauda equina,5,cc,1,1400,TG101
+Cauda equina,0.03,cc,1,1600,TG101
+Cauda equina,5,cc,3,2190,TG101
+Cauda equina,0.03,cc,3,2400,TG101
+Cauda equina,5,cc,5,3000,TG101
+Cauda equina,0.03,cc,5,3200,TG101
+Cochlea_*,0.03,cc,1,900,TG101
+Cochlea_*,0.03,cc,3,1710,TG101
+Cochlea_*,0.03,cc,5,2500,TG101
+Colon,20,cc,1,1430,TG101
+Colon,0.03,cc,1,1840,TG101
+Colon,20,cc,3,2400,TG101
+Colon,0.03,cc,3,2820,TG101
+Colon,20,cc,5,2500,TG101
+Colon,0.03,cc,5,3800,TG101
+Duodenum,5,cc,1,1120,TG101
+Duodenum,0.03,cc,1,1240,TG101
+Duodenum,10,cc,1,900,TG101
+Duodenum,5,cc,3,1650,TG101
+Duodenum,0.03,cc,3,2220,TG101
+Duodenum,10,cc,3,1140,TG101
+Duodenum,5,cc,5,1800,TG101
+Duodenum,0.03,cc,5,3200,TG101
+Duodenum,10,cc,5,1250,TG101
+Esophagus,5,cc,1,1190,TG101
+Esophagus,0.03,cc,1,1540,TG101
+Esophagus,5,cc,3,1770,TG101
+Esophagus,0.03,cc,3,2520,TG101
+Esophagus,5,cc,5,1950,TG101
+Esophagus,0.03,cc,5,3500,TG101
+Femur_Head_*,10,cc,1,1400,TG101
+Femur_Head_*,10,cc,3,2190,TG101
+Femur_Head_*,10,cc,5,3000,TG101
+Great vessels,10,cc,1,3100,TG101
+Great vessels,0.03,cc,1,3700,TG101
+Great vessels,10,cc,3,3900,TG101
+Great vessels,0.03,cc,3,4500,TG101
+Great vessels,10,cc,5,4700,TG101
+Great vessels,0.03,cc,5,5300,TG101
+Heart,15,cc,1,1600,TG101
+Heart,0.03,cc,1,2200,TG101
+Heart,15,cc,3,2400,TG101
+Heart,0.03,cc,3,3000,TG101
+Heart,15,cc,5,3200,TG101
+Heart,0.03,cc,5,3800,TG101
+Jejunum,5,cc,1,1190,TG101
+Jejunum,0.03,cc,1,1540,TG101
+Jejunum,5,cc,3,1770,TG101
+Jejunum,0.03,cc,3,2520,TG101
+Jejunum,5,cc,5,1950,TG101
+Jejunum,0.03,cc,5,3500,TG101
+Liver,700,cc,1,910,TG101
+Liver,700,cc,3,1920,TG101
+Liver,700,cc,5,2100,TG101
+Lung_*,1500,cc,1,700,TG101
+Lung_*,1000,cc,1,740,TG101
+Lung_*,1500,cc,3,1160,TG101
+Lung_*,1000,cc,3,1240,TG101
+Lung_*,1500,cc,5,1250,TG101
+Lung_*,1000,cc,5,1350,TG101
+Optic pathway,0.2,cc,1,800,TG101
+Optic pathway,0.03,cc,1,1000,TG101
+Optic pathway,0.2,cc,3,1530,TG101
+Optic pathway,0.03,cc,3,1740,TG101
+Optic pathway,0.2,cc,5,2300,TG101
+Optic pathway,0.03,cc,5,2500,TG101
+PenileBulb,3,cc,1,1400,TG101
+PenileBulb,0.03,cc,1,3400,TG101
+PenileBulb,3,cc,3,2190,TG101
+PenileBulb,0.03,cc,3,4200,TG101
+PenileBulb,3,cc,5,3000,TG101
+PenileBulb,0.03,cc,5,5000,TG101
+Rectum,20,cc,1,1430,TG101
+Rectum,0.03,cc,1,1840,TG101
+Rectum,20,cc,3,2400,TG101
+Rectum,0.03,cc,3,2820,TG101
+Rectum,20,cc,5,2500,TG101
+Rectum,0.03,cc,5,3800,TG101
+Renal cortex,200,cc,1,840,TG101
+Renal cortex,200,cc,3,1600,TG101
+Renal cortex,200,cc,5,1750,TG101
+Renal hilum,66.66,percent,1,1060,TG101
+Renal hilum,0.03,cc,1,1860,TG101
+Renal hilum,66.66,percent,5,2300,TG101
+Rib,1,cc,1,2200,TG101
+Rib,0.03,cc,1,3000,TG101
+Rib,1,cc,3,2880,TG101
+Rib,0.03,cc,3,3690,TG101
+Rib,30,cc,3,3000,TG101
+Rib,1,cc,5,3500,TG101
+Rib,0.03,cc,5,4300,TG101
+Sacral plexus,5,cc,1,1440,TG101
+Sacral plexus,0.03,cc,1,1600,TG101
+Sacral plexus,5,cc,3,2250,TG101
+Sacral plexus,0.03,cc,3,2400,TG101
+Sacral plexus,5,cc,5,3000,TG101
+Sacral plexus,0.03,cc,5,3200,TG101
+Skin,10,cc,1,2300,TG101
+Skin,0.03,cc,1,2600,TG101
+Skin,10,cc,3,3000,TG101
+Skin,0.03,cc,3,3300,TG101
+Skin,10,cc,5,3650,TG101
+Skin,0.03,cc,5,3950,TG101
+SpinalCanal,0.35,cc,1,1000,TG101
+SpinalCanal,0.03,cc,1,1400,TG101
+SpinalCanal,1.2,cc,1,700,TG101
+SpinalCanal,10,percent,1,1000,TG101
+SpinalCanal,0.35,cc,3,1800,TG101
+SpinalCanal,0.03,cc,3,2190,TG101
+SpinalCanal,1.2,cc,3,1230,TG101
+SpinalCanal,10,percent,3,1800,TG101
+SpinalCanal,0.35,cc,5,2300,TG101
+SpinalCanal,0.03,cc,5,3000,TG101
+SpinalCanal,1.2,cc,5,1450,TG101
+SpinalCanal,10,percent,5,2300,TG101
+SpinalCord,0.35,cc,1,1000,TG101
+SpinalCord,0.03,cc,1,1400,TG101
+SpinalCord,1.2,cc,1,700,TG101
+SpinalCord,10,percent,1,1000,TG101
+SpinalCord,0.35,cc,3,1800,TG101
+SpinalCord,0.03,cc,3,2190,TG101
+SpinalCord,1.2,cc,3,1230,TG101
+SpinalCord,10,percent,3,1800,TG101
+SpinalCord,0.35,cc,5,2300,TG101
+SpinalCord,0.03,cc,5,3000,TG101
+SpinalCord,1.2,cc,5,1450,TG101
+Stomach,10,cc,1,1120,TG101
+Stomach,0.03,cc,1,1240,TG101
+Stomach,10,cc,3,1650,TG101
+Stomach,0.03,cc,3,2220,TG101
+Stomach,10,cc,5,1800,TG101
+Stomach,0.03,cc,5,3200,TG101
+Trachea,4,cc,1,1050,TG101
+Trachea,0.03,cc,1,2020,TG101
+Trachea,4,cc,3,1500,TG101
+Trachea,0.03,cc,3,3000,TG101
+Trachea,4,cc,5,1650,TG101
+Trachea,0.03,cc,5,4000,TG101

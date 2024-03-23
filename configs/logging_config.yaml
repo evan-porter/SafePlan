@@ -1,0 +1,66 @@
+ScriptRunRecords:
+  Plan UID: TEXT UNIQUE
+  MD: BOOLEAN
+  Import: BOOLEAN
+  Export: BOOLEAN
+UserComments:
+  Plan UID: TEXT UNIQUE
+  CMD: TEXT
+  MD: TEXT
+  CMD Feedback: TEXT
+  MD Feedback: TEXT
+  ICC Feedback: TEXT
+RoiRenaming:
+  Plan UID: TEXT
+  Data UID: TEXT UNIQUE
+  Original Name: TEXT
+  Current Name: TEXT
+ConstraintStatus:
+  Plan UID: TEXT
+  Data UID: TEXT UNIQUE
+  ROI Name: TEXT
+  Status: TEXT
+  Number Of Fx: INTEGER
+  Volume: TEXT
+  Volume Units: TEXT
+  Dose Planned: REAL
+  Clinical Goal Limit: INTEGER
+  Clinical Goal Met: BOOLEAN
+  Constraint Limit: INTEGER
+  Constraint Met: BOOLEAN
+  Reference: TEXT
+MDApprovals:
+  Constraint Data UID: TEXT UNIQUE
+  Timestamp: TEXT
+  Approved: BOOLEAN
+FractionSpecification:
+  Plan UID: TEXT UNIQUE
+  Fractions: REAL
+BeamChecking:
+  Plan UID: TEXT
+  Data UID: TEXT UNIQUE
+  Timestamp: TEXT
+  Jaws Gap: TEXT
+  MLC Gap: TEXT
+  EDW Gap: TEXT
+  MLC Behind Jaws: TEXT
+  Collimator Angles: TEXT
+  CW/CCW Check: TEXT
+  Bolus Check: TEXT
+  FiF MU Limit: TEXT
+  Rx Dose Limit: TEXT
+  Dose Grid Size: TEXT
+  Iso Couch Distance: TEXT
+  Iso Shift Distance: TEXT
+  Collision Check: TEXT
+  Dose Algorithm: TEXT
+  Dmax OAR Overlap: TEXT
+MissingRois:
+  Plan UID: TEXT UNIQUE
+  Data UID: TEXT UNIQUE
+  Missing ROI List: NAMELIST
+Questionnaire:
+  Plan UID: TEXT UNIQUE
+  MRN: TEXT
+  User: TEXT
+  Plan Name: TEXT
